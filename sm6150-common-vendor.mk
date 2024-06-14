@@ -109,6 +109,7 @@ PRODUCT_PACKAGES += \
     libC2D2 \
     libCB \
     libOpenCL \
+    libadreno_app_profiles \
     libadreno_utils \
     libadsp_default_listener \
     libadsprpc \
@@ -117,6 +118,7 @@ PRODUCT_PACKAGES += \
     libdapparamstorage \
     libdiag \
     libdsutils \
+    libgpudataproducer \
     libgsl \
     libidl \
     libllvm-glnext \
@@ -282,6 +284,7 @@ PRODUCT_PACKAGES += \
     libtime_genoff \
     libtinyxml2_1 \
     libtrustedapploader \
+    libVkLayer_q3dtools \
     libwms \
     libwqe \
     libwvhidl \
